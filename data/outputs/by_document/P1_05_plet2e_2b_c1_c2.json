@@ -1,0 +1,414 @@
+{
+  "grade": "P1",
+  "predicted_grade": "P1",
+  "source_file": "05_plet2e_2b_c1_c2.pdf",
+  "extractions": [
+    {
+      "unit_title": "Unit 1: Let's help at home",
+      "grammar_points": [
+        "Use the simple present tense to talk about habits.",
+        "Use 'do' and 'does' for questions and short answers."
+      ],
+      "vocabulary_themes": [
+        "Household chores",
+        "Helping at home"
+      ],
+      "vocabulary_words": [
+        "help",
+        "clean",
+        "wash",
+        "water",
+        "set the table",
+        "fold the clothes",
+        "sweep the floor",
+        "vacuum the floor"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 3,
+      "end_page": 10,
+      "unit_number": "1"
+    },
+    {
+      "unit_title": "Unit 2: Good boys and girls",
+      "grammar_points": [
+        "simple present tense"
+      ],
+      "vocabulary_themes": [
+        "personal qualities",
+        "adjectives for describing people"
+      ],
+      "vocabulary_words": [
+        "honest",
+        "polite",
+        "helpful",
+        "hard-working",
+        "lazy",
+        "untidy",
+        "rude"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 13,
+      "end_page": 21,
+      "unit_number": "2"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "semantic_content",
+  "canonical": {
+    "file": "05_plet2e_2b_c1_c2.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P1",
+    "source": "semantic_content",
+    "source_of_truth": "semantic_content",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:21",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "05_plet2e_2b_c1_c2.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 21,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:21",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "toc_only",
+      "evidence": [
+        "© Pearson Education Asia Limited 2022",
+        "All rights reserved; no part of this publication may be reproduced, photocopied, recorded or otherwise, without the prior written permission of Pearson Education Asia Limited."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "Pearson Education Asia Limited",
+      "textbook_series": "",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "Pearson",
+        "© Pearson Education Asia Limited 2022",
+        "content_grade_inference: Unit 1: Let's help at home",
+        "content_grade_inference: Use the simple present tense to talk about habits",
+        "content_grade_inference: Vocabulary themes: ['Household chores', 'Helping at home']",
+        "content_grade_inference: Good boys and girls",
+        "content_grade_inference: Vocabulary themes: ['personal qualities', 'adjectives for describing people']"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "P1",
+    "level_confidence": 0.68,
+    "level_evidence": [
+      {
+        "evidence": "Unit 1: Let's help at home, Use the simple present tense to talk about habits, Vocabulary themes: ['Household chores', 'Helping at home'], Good boys and girls, Vocabulary themes: ['personal qualities', 'adjectives for describing people']",
+        "suggested_level": "P1",
+        "confidence": 0.9
+      },
+      {
+        "evidence": "avg_sentence_words=30.0, long_word_ratio=0.30",
+        "suggested_level": "S4",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "level_decision_trace": [
+      "semantic_content: P1 (0.90)",
+      "lexical_complexity: S4 (0.38)",
+      "Grade inferred from content only; no explicit marker or clear filename.",
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "total_units_detected": 2,
+    "document_unit_number": ""
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 1: Let's help at home",
+      "start_page": 3,
+      "end_page": 10,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Unit 2: Good boys and girls",
+      "start_page": 13,
+      "end_page": 21,
+      "boundary_source": "visual_unit_boundary"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": {
+      "predicted_grade": "P1",
+      "confidence": 0.9,
+      "evidence": [
+        "Unit 1: Let's help at home",
+        "Use the simple present tense to talk about habits",
+        "Vocabulary themes: ['Household chores', 'Helping at home']",
+        "Good boys and girls",
+        "Vocabulary themes: ['personal qualities', 'adjectives for describing people']"
+      ],
+      "reasoning_summary": "The units focus on basic vocabulary and grammar suitable for Primary 1 English learners, emphasizing simple present tense and everyday themes."
+    },
+    "grade_decision": {
+      "grade": "P1",
+      "confidence": 0.68,
+      "source": "semantic_content",
+      "signals": [
+        {
+          "source": "semantic_content",
+          "grade": "P1",
+          "confidence": 0.9,
+          "priority": 2,
+          "evidence": [
+            "Unit 1: Let's help at home",
+            "Use the simple present tense to talk about habits",
+            "Vocabulary themes: ['Household chores', 'Helping at home']",
+            "Good boys and girls",
+            "Vocabulary themes: ['personal qualities', 'adjectives for describing people']"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "S4",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=30.0",
+            "long_word_ratio=0.30"
+          ]
+        }
+      ],
+      "warnings": [
+        "Grade inferred from content only; no explicit marker or clear filename."
+      ],
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    },
+    "final": {
+      "predicted_grade": "P1",
+      "confidence": 0.68,
+      "signal": "semantic_content",
+      "source_of_truth": "semantic_content",
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    }
+  },
+  "total_units_detected": 2,
+  "text_quality": {
+    "total_chars": 4641,
+    "chars_per_page": 221.0,
+    "unique_pages": 1,
+    "repeated_ratio": 0.9523809523809523,
+    "curriculum_terms": 0,
+    "likely_insufficient": true
+  },
+  "unit_quality": {
+    "unit_count": 2,
+    "detected_unit_count": 2,
+    "detected_units": [],
+    "confidence": 0.72,
+    "boundary_sources": [
+      "visual_unit_boundary"
+    ],
+    "structural_source": "segmentation",
+    "cross_check": {
+      "counts_by_source": {
+        "segmentation": 2
+      },
+      "agreement": true
+    },
+    "warnings": [],
+    "needs_human_review": false,
+    "filename_unit_hint": [
+      1,
+      2
+    ]
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": false,
+    "text_quality": true,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": {
+    "units": [
+      {
+        "unit_title": "Unit 1: Let's help at home",
+        "start_page": 3,
+        "end_page": 10,
+        "evidence": [
+          "Page 3 contains unit heading and content related to housework."
+        ]
+      },
+      {
+        "unit_title": "Unit 2: Good boys and girls",
+        "start_page": 13,
+        "end_page": 23,
+        "evidence": [
+          "Page 13 contains unit heading and content related to adjectives."
+        ]
+      }
+    ],
+    "confidence": 0.9,
+    "evidence": [
+      "Two distinct units are clearly present based on headings and content organization."
+    ]
+  }
+}

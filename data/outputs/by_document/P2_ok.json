@@ -1,0 +1,385 @@
+{
+  "grade": "P2",
+  "predicted_grade": "P2",
+  "source_file": "ok.pdf",
+  "extractions": [
+    {
+      "unit_title": "Chapter 5: My Toys",
+      "grammar_points": [],
+      "vocabulary_themes": [],
+      "vocabulary_words": [],
+      "language_skills": [],
+      "start_page": 22,
+      "end_page": 22,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Chapter 6: My Clothes",
+      "grammar_points": [],
+      "vocabulary_themes": [],
+      "vocabulary_words": [],
+      "language_skills": [],
+      "start_page": 22,
+      "end_page": 22,
+      "unit_number": ""
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "semantic_content",
+  "canonical": {
+    "file": "ok.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P2",
+    "source": "semantic_content",
+    "source_of_truth": "semantic_content",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:22",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "ok.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "ok.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 22,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:22",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "toc_only",
+      "evidence": [
+        "© Pearson Education Asia Limited 2022 All rights reserved",
+        "no part of this publication may be reproduced, photocopied, recorded or otherwise, without the prior written permission of Pearson Education Asia Limited."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "Pearson Education Asia Limited",
+      "textbook_series": "",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "Pearson",
+        "© Pearson Education Asia Limited 2022",
+        "content_grade_inference: visual PDF page inference",
+        "content_grade_inference: Vocabulary list of toys including simple words like 'train', 'robot', and 'plane'.",
+        "content_grade_inference: Tasks require basic reading comprehension and writing skills appropriate for early primary students, such as associating toys with their owners and identifying colors."
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "P2",
+    "level_confidence": 0.68,
+    "level_evidence": [
+      {
+        "evidence": "visual PDF page inference, Vocabulary list of toys including simple words like 'train', 'robot', and 'plane'., Tasks require basic reading comprehension and writing skills appropriate for early primary students, such as associating toys with their owners and identifying colors.",
+        "suggested_level": "P2",
+        "confidence": 0.85
+      },
+      {
+        "evidence": "toys, clothes",
+        "suggested_level": "P2",
+        "confidence": 0.7384999999999999
+      },
+      {
+        "evidence": "avg_sentence_words=30.0, long_word_ratio=0.30",
+        "suggested_level": "S4",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "level_decision_trace": [
+      "semantic_content: P2 (0.85)",
+      "curriculum_topics: P2 (0.74)",
+      "lexical_complexity: S4 (0.38)",
+      "Grade inferred from content only; no explicit marker or clear filename.",
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "total_units_detected": 2,
+    "document_unit_number": ""
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Chapter 5: My Toys",
+      "start_page": 22,
+      "end_page": 22,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Chapter 6: My Clothes",
+      "start_page": 22,
+      "end_page": 22,
+      "boundary_source": "visual_unit_boundary"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "ok.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": {
+      "predicted_grade": "P2",
+      "confidence": 0.85,
+      "evidence": [
+        "visual PDF page inference",
+        "Vocabulary list of toys including simple words like 'train', 'robot', and 'plane'.",
+        "Tasks require basic reading comprehension and writing skills appropriate for early primary students, such as associating toys with their owners and identifying colors."
+      ],
+      "reasoning_summary": "The material uses simple vocabulary and tasks suitable for Primary 2 level learners, focusing on basic comprehension and vocabulary related to familiar concepts."
+    },
+    "grade_decision": {
+      "grade": "P2",
+      "confidence": 0.68,
+      "source": "semantic_content",
+      "signals": [
+        {
+          "source": "semantic_content",
+          "grade": "P2",
+          "confidence": 0.85,
+          "priority": 2,
+          "evidence": [
+            "visual PDF page inference",
+            "Vocabulary list of toys including simple words like 'train', 'robot', and 'plane'.",
+            "Tasks require basic reading comprehension and writing skills appropriate for early primary students, such as associating toys with their owners and identifying colors."
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P2",
+          "confidence": 0.7384999999999999,
+          "priority": 2,
+          "evidence": [
+            "toys",
+            "clothes"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "S4",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=30.0",
+            "long_word_ratio=0.30"
+          ]
+        }
+      ],
+      "warnings": [
+        "Grade inferred from content only; no explicit marker or clear filename."
+      ],
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    },
+    "final": {
+      "predicted_grade": "P2",
+      "confidence": 0.68,
+      "signal": "semantic_content",
+      "source_of_truth": "semantic_content",
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    }
+  },
+  "total_units_detected": 2,
+  "text_quality": {
+    "total_chars": 4862,
+    "chars_per_page": 221.0,
+    "unique_pages": 1,
+    "repeated_ratio": 0.9545454545454546,
+    "curriculum_terms": 0,
+    "likely_insufficient": true
+  },
+  "unit_quality": {
+    "unit_count": 2,
+    "detected_unit_count": 2,
+    "detected_units": [],
+    "confidence": 0.72,
+    "boundary_sources": [
+      "visual_unit_boundary"
+    ],
+    "structural_source": "segmentation",
+    "cross_check": {
+      "counts_by_source": {
+        "segmentation": 2
+      },
+      "agreement": true
+    },
+    "warnings": [],
+    "needs_human_review": false,
+    "filename_unit_hint": []
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": false,
+    "text_quality": true,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": {
+    "units": [
+      {
+        "unit_title": "Chapter 5: My Toys",
+        "start_page": 51,
+        "end_page": 55,
+        "evidence": [
+          "Page 51 shows the title '5 My toys' and subsequent pages continue the theme of toys."
+        ]
+      },
+      {
+        "unit_title": "Chapter 6: My Clothes",
+        "start_page": 61,
+        "end_page": 71,
+        "evidence": [
+          "Page 61 shows the title '6 My clothes' and subsequent pages include activities and stories related to clothes."
+        ]
+      }
+    ],
+    "confidence": 0.9,
+    "evidence": [
+      "The document is divided into two main sections, marked by distinct headings for chapters on toys and clothes."
+    ]
+  }
+}

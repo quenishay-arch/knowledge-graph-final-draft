@@ -1,0 +1,1050 @@
+[
+  {
+    "file": "05_plet2e_2b_c1_c2.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:21",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "05_plet2e_2b_c1_c2.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 21,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:21",
+        "toc_entries:0"
+      ]
+    }
+  },
+  {
+    "file": "3B-book1_20230120-student-2.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:36",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "3B-book1_20230120-student-2.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "3B-book1_20230120-student-2.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 36,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:36",
+        "toc_entries:0"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1AU1.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1AU1.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1AU1.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "A",
+        "unit": "1",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1AU2.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1AU2.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1AU2.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "A",
+        "unit": "2",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1AU3.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1AU3.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1AU3.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "A",
+        "unit": "3",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1AU4.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1AU4.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1AU4.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "A",
+        "unit": "4",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1BU5.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1BU5.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1BU5.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "B",
+        "unit": "5",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1BU6.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1BU6.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1BU6.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "B",
+        "unit": "6",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1BU7.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1BU7.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1BU7.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "B",
+        "unit": "7",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_1BU8.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1BU8.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1BU8.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "B",
+        "unit": "8",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2AU1.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2AU1.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2AU1.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "A",
+        "unit": "1",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2AU2.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2AU2.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2AU2.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "A",
+        "unit": "2",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2AU3.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2AU3.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2AU3.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "A",
+        "unit": "3",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2AU4.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2AU4.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2AU4.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "A",
+        "unit": "4",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2AU5.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2AU5.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2AU5.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "A",
+        "unit": "5",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2BU6.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2BU6.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2BU6.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "B",
+        "unit": "6",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2BU7.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2BU7.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2BU7.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "B",
+        "unit": "7",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_2BU8.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:S2"
+    ],
+    "structure": {
+      "source_file": "NTP3E_2BU8.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_2BU8.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 2,
+        "track": "B",
+        "unit": "8",
+        "inferred_grade": "S2"
+      },
+      "locked_grade": "S2",
+      "filename_grade_hint": "S2",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:S2"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3AU1.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3AU1.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3AU1.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "A",
+        "unit": "1",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3AU2.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3AU2.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3AU2.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "A",
+        "unit": "2",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3AU3.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3AU3.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3AU3.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "A",
+        "unit": "3",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3AU4.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3AU4.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3AU4.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "A",
+        "unit": "4",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3BU5.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3BU5.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3BU5.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "B",
+        "unit": "5",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3BU6.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3BU6.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3BU6.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "B",
+        "unit": "6",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3BU7.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3BU7.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3BU7.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "B",
+        "unit": "7",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "NTP3E_3BU8.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3BU8.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3BU8.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "B",
+        "unit": "8",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  {
+    "file": "files.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:34",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "files.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "files.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 34,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:34",
+        "toc_entries:0"
+      ]
+    }
+  },
+  {
+    "file": "ok.pdf",
+    "route": "unified",
+    "confidence": 1.0,
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:22",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "ok.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "ok.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 22,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:22",
+        "toc_entries:0"
+      ]
+    }
+  }
+]

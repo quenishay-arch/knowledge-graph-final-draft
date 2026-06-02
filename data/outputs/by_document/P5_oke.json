@@ -1,0 +1,443 @@
+{
+  "grade": "P5",
+  "predicted_grade": "P5",
+  "source_file": "oke.pdf",
+  "extractions": [
+    {
+      "unit_title": "Unit 1: Infographic",
+      "grammar_points": [
+        "Present perfect tense",
+        "Conditional sentences about facts (type 0)",
+        "Adverbs of degree"
+      ],
+      "vocabulary_themes": [
+        "Health advice",
+        "Talking about food and nutrition"
+      ],
+      "vocabulary_words": [],
+      "language_skills": [
+        "Identifying what a reference word refers to",
+        "Listening for problems and solutions",
+        "Making comments",
+        "Starting a presentation effectively",
+        "British and American English",
+        "READING",
+        "Infographic",
+        "Presentation",
+        "Blog entry"
+      ],
+      "start_page": 1,
+      "end_page": 1,
+      "unit_number": "1"
+    },
+    {
+      "unit_title": "Unit 2: Presentation",
+      "grammar_points": [
+        "Present perfect tense",
+        "Conditional sentences about facts (type 0)",
+        "Adverbs of degree"
+      ],
+      "vocabulary_themes": [
+        "Health advice",
+        "Talking about food and nutrition"
+      ],
+      "vocabulary_words": [
+        "avoid processed foods",
+        "do not skip meals",
+        "exercise regularly",
+        "maintain personal hygiene",
+        "eat a balanced diet",
+        "limit your sugar intake",
+        "wear sunscreen",
+        "fibre",
+        "protein",
+        "carbohydrates",
+        "fat",
+        "mineral",
+        "salt",
+        "vitamin"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 1,
+      "end_page": 28,
+      "unit_number": "2"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "semantic_content",
+  "canonical": {
+    "file": "oke.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P5",
+    "source": "semantic_content",
+    "source_of_truth": "semantic_content",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:28",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "oke.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "oke.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:28",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "workbook",
+      "evidence": [
+        "Identifying what a reference word refers to",
+        "Your friend has sent you a ‘true or false’ quiz to see how much you know about fitness and nutrition. Circle the correct answers.",
+        "In pairs, ask your partner about one health tip.",
+        "Your teacher has asked you about some reference words in the texts",
+        "Read the infographic."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "3",
+      "publisher": "Unknown",
+      "textbook_series": "Get fit, stay healthy",
+      "source_code": "",
+      "semester_or_book": "Module",
+      "unit_number": "Module: Healthy living",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "primary",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "Explicit Grade Label: 3",
+        "Textbook Series: Get fit, stay healthy",
+        "Unit Number: Module: Healthy living",
+        "content_grade_inference: Identifying what a reference word refers to",
+        "content_grade_inference: Present perfect tense",
+        "content_grade_inference: Conditional sentences about facts (type 0)",
+        "content_grade_inference: Adverbs of degree",
+        "content_grade_inference: Vocabulary related to health advice and nutrition"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "P5",
+    "level_confidence": 0.68,
+    "level_evidence": [
+      {
+        "evidence": "Identifying what a reference word refers to, Present perfect tense, Conditional sentences about facts (type 0), Adverbs of degree, Vocabulary related to health advice and nutrition",
+        "suggested_level": "P5",
+        "confidence": 0.9
+      },
+      {
+        "evidence": "present perfect, conditional sentence",
+        "suggested_level": "P5",
+        "confidence": 0.82
+      },
+      {
+        "evidence": "avg_sentence_words=14.1, long_word_ratio=0.13",
+        "suggested_level": "P6",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [
+      "Grade classification flagged for human review."
+    ],
+    "level_decision_trace": [
+      "semantic_content: P5 (0.90)",
+      "curriculum_topics: P5 (0.82)",
+      "lexical_complexity: P6 (0.38)",
+      "Grade inferred from content only; no explicit marker or clear filename.",
+      "Grade classification flagged for human review."
+    ],
+    "total_units_detected": 2,
+    "document_unit_number": "Module: Healthy living"
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 1: Infographic",
+      "start_page": 1,
+      "end_page": 1,
+      "boundary_source": "numeric_header"
+    },
+    {
+      "unit_title": "Unit 2: Presentation",
+      "start_page": 1,
+      "end_page": 28,
+      "boundary_source": "numeric_header"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 24,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 28,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "oke.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": {
+      "predicted_grade": "P5",
+      "confidence": 0.9,
+      "evidence": [
+        "Identifying what a reference word refers to",
+        "Present perfect tense",
+        "Conditional sentences about facts (type 0)",
+        "Adverbs of degree",
+        "Vocabulary related to health advice and nutrition"
+      ],
+      "reasoning_summary": "The material involves intermediate grammar like the present perfect tense and conditionals, suitable for P5 students. The themes and tasks suggest it targets a primary school level."
+    },
+    "grade_decision": {
+      "grade": "P5",
+      "confidence": 0.68,
+      "source": "semantic_content",
+      "signals": [
+        {
+          "source": "semantic_content",
+          "grade": "P5",
+          "confidence": 0.9,
+          "priority": 2,
+          "evidence": [
+            "Identifying what a reference word refers to",
+            "Present perfect tense",
+            "Conditional sentences about facts (type 0)",
+            "Adverbs of degree",
+            "Vocabulary related to health advice and nutrition"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P5",
+          "confidence": 0.82,
+          "priority": 2,
+          "evidence": [
+            "present perfect",
+            "conditional sentence"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "P6",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=14.1",
+            "long_word_ratio=0.13"
+          ]
+        }
+      ],
+      "warnings": [
+        "Grade inferred from content only; no explicit marker or clear filename."
+      ],
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    },
+    "final": {
+      "predicted_grade": "P5",
+      "confidence": 0.68,
+      "signal": "semantic_content",
+      "source_of_truth": "semantic_content",
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    }
+  },
+  "total_units_detected": 2,
+  "text_quality": {
+    "total_chars": 39084,
+    "chars_per_page": 1395.857142857143,
+    "unique_pages": 28,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 70,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 2,
+    "detected_unit_count": 2,
+    "detected_units": [
+      "Unit 1: Infographic",
+      "Unit 2: Presentation"
+    ],
+    "confidence": 0.85,
+    "boundary_sources": [
+      "numeric_header"
+    ],
+    "structural_source": "numeric_header",
+    "cross_check": {
+      "counts_by_source": {
+        "numeric_header": 2,
+        "segmentation": 2
+      },
+      "agreement": true
+    },
+    "warnings": [],
+    "needs_human_review": false,
+    "filename_unit_hint": []
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": false,
+    "text_quality": false,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}

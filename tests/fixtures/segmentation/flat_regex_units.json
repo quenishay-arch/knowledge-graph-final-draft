@@ -1,0 +1,8 @@
+{
+  "id": "flat_regex_units",
+  "description": "Flat text with repeated unit headings (repeated unit heading)",
+  "source_file": "sample_flat.txt",
+  "pages": [
+    "Unit 1\nIntroduction to phonics.\nActivity A and B.\n\nUnit 2\nBlending sounds.\nActivity C and D.\n\nUnit 3\nSimple sentences.\nActivity E."
+  ]
+}

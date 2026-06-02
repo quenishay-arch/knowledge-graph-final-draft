@@ -1,0 +1,7 @@
+{
+  "chunk_count_min": 2,
+  "chunk_count_max": 5,
+  "titles_contain_any": ["Unit 1", "Unit 2"],
+  "titles_must_not": [],
+  "boundary_sources_allowed": ["regex_flat", "heading", "toc", "module_heading", "structural_marker", "numeric_header"]
+}

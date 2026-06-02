@@ -1,0 +1,7 @@
+{
+  "chunk_count_min": 1,
+  "chunk_count_max": 1,
+  "titles_contain_any": ["Nice to meet you", "Module:"],
+  "titles_must_not": ["Document"],
+  "boundary_sources_allowed": ["module_heading", "heading", "filename_hint", "toc", "fallback"]
+}

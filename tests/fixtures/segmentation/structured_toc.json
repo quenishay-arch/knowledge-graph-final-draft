@@ -1,0 +1,19 @@
+{
+  "id": "structured_toc",
+  "description": "Textbook front matter with TOC page numbers",
+  "source_file": "p3b.pdf",
+  "pages": [
+    "Open English Primary 3\nStudent's Book",
+    "Table of contents\nUnit 1 My family .............. 8\nUnit 2 At school .............. 24\nUnit 3 Food and health ........ 40",
+    "Unit 1\nMy family\nWelcome to the unit.",
+    "Grammar: possessive adjectives\nmy, your, his, her",
+    "Vocabulary: family members",
+    "Reading: Tom's family tree",
+    "Unit 2\nAt school\nSchool subjects and places.",
+    "Grammar: prepositions of place",
+    "Listening: Classroom instructions",
+    "Unit 3\nFood and health\nHealthy eating habits.",
+    "Grammar: countable and uncountable nouns",
+    "Writing: A healthy lunch menu"
+  ]
+}

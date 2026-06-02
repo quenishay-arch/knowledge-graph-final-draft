@@ -1,0 +1,124 @@
+{
+  "version": "1.1",
+  "description": "Independent ground-truth labels for evaluation. NOT derived from pipeline rule code.",
+  "labeling_rules": {
+    "ntp_form": "Book token in filename: 1A/1B -> S1, 2A/2B -> S2, 3A/3B -> S3. NTP3E is publisher series only.",
+    "primary_filename": "p3b.pdf -> P3 (digit after p)"
+  },
+  "entries": [
+    {
+      "file": "p1.pdf",
+      "path": "data/input_pdfs/p1.pdf",
+      "expected_route": "unified",
+      "expected_grade": "P1",
+      "expected_units_min": 5
+    },
+    {
+      "file": "p2.pdf",
+      "path": "data/input_pdfs/p2.pdf",
+      "expected_route": "unified",
+      "expected_grade": "P2",
+      "expected_units_min": 5
+    },
+    {
+      "file": "p3b.pdf",
+      "path": "data/input_pdfs/p3b.pdf",
+      "expected_route": "unified",
+      "expected_grade": "P3",
+      "expected_units_min": 8,
+      "notes": "Also must resolve P3 if processed by unified engine (primary filename rule)"
+    },
+    {
+      "file": "3B-book1_20230120-student-2.pdf",
+      "path": "data/input_pdfs/3B-book1_20230120-student-2.pdf",
+      "expected_route": "unified",
+      "expected_grade": "P3",
+      "expected_units_min": 3,
+      "notes": "Open textbook filename form/semester label should resolve without NTP-specific rules."
+    },
+    {
+      "file": "p4.pdf",
+      "path": "data/input_pdfs/p4.pdf",
+      "expected_route": "unified",
+      "expected_grade": "P4",
+      "expected_units_min": 5
+    },
+    {
+      "file": "p5b.pdf",
+      "path": "data/input_pdfs/p5b.pdf",
+      "expected_route": "unified",
+      "expected_grade": "P5",
+      "expected_units_min": 6
+    },
+    {
+      "file": "NTP3E_1AU1.pdf",
+      "path": "data/input_pdfs/NTP3E_1AU1.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "1"
+    },
+    {
+      "file": "NTP3E_1AU2.pdf",
+      "path": "data/input_pdfs/NTP3E_1AU2.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "2"
+    },
+    {
+      "file": "NTP3E_1AU3.pdf",
+      "path": "data/input_pdfs/NTP3E_1AU3.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "3"
+    },
+    {
+      "file": "NTP3E_1AU4.pdf",
+      "path": "data/input_pdfs/NTP3E_1AU4.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "4"
+    },
+    {
+      "file": "NTP3E_1BU5.pdf",
+      "path": "data/input_pdfs/NTP3E_1BU5.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "5"
+    },
+    {
+      "file": "NTP3E_1BU6.pdf",
+      "path": "data/input_pdfs/NTP3E_1BU6.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "6"
+    },
+    {
+      "file": "NTP3E_1BU7.pdf",
+      "path": "data/input_pdfs/NTP3E_1BU7.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "7"
+    },
+    {
+      "file": "NTP3E_1BU8.pdf",
+      "path": "data/input_pdfs/NTP3E_1BU8.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S1",
+      "expected_unit_number": "8"
+    },
+    {
+      "file": "NTP3E_2AU1.pdf",
+      "path": "data/input_pdfs/NTP3E_2AU1.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S2",
+      "expected_unit_number": "1"
+    },
+    {
+      "file": "NTP3E_2AU3.pdf",
+      "path": "data/input_pdfs/NTP3E_2AU3.pdf",
+      "expected_route": "unified",
+      "expected_grade": "S2",
+      "expected_unit_number": "3"
+    }
+  ]
+}

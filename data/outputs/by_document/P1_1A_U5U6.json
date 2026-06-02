@@ -1,0 +1,221 @@
+{
+  "grade": "P1",
+  "predicted_grade": "P1",
+  "source_file": "1A_U5U6.pdf",
+  "extractions": [
+    {
+      "unit_title": "Unit 5",
+      "grammar_points": [],
+      "vocabulary_themes": [],
+      "vocabulary_words": [],
+      "language_skills": [],
+      "start_page": 1,
+      "end_page": 22,
+      "unit_number": "5"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "P1",
+  "grade_source": "canonical_parser",
+  "canonical": {
+    "file": "1A_U5U6.pdf",
+    "parsed_form": 1,
+    "parsed": {
+      "publisher": "PRIMARY_FORM_TOKEN",
+      "series": null,
+      "form_number": 1,
+      "track": "A",
+      "unit": null
+    },
+    "final_grade": "P1",
+    "source": "canonical_parser",
+    "source_of_truth": "canonical_parser",
+    "inference_used": false
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:PRIMARY_FORM_TOKEN",
+      "page_count:22",
+      "toc_entries:0",
+      "form_number:1"
+    ],
+    "structure": {
+      "source_file": "1A_U5U6.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "1A_U5U6.pdf",
+        "publisher": "PRIMARY_FORM_TOKEN",
+        "series": null,
+        "form_number": 1,
+        "track": "A",
+        "unit": null,
+        "inferred_grade": "P1"
+      },
+      "locked_grade": "P1",
+      "grade_source": "canonical_parser",
+      "page_count": 22,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:PRIMARY_FORM_TOKEN",
+        "page_count:22",
+        "toc_entries:0",
+        "form_number:1"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "toc_only",
+      "evidence": [
+        "All rights reserved; no part of this publication may be reproduced, photocopied, recorded or otherwise, without the prior written permission of Pearson Education Asia Limited."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "Pearson Education Asia Limited",
+      "textbook_series": "",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "© Pearson Education Asia Limited 2022"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "P1",
+    "level_confidence": 1.0,
+    "level_evidence": [],
+    "consistency_issues": [],
+    "level_decision_trace": [
+      "frozen_grade from orchestrator: P1"
+    ],
+    "total_units_detected": 1,
+    "document_unit_number": ""
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 5",
+      "start_page": 1,
+      "end_page": 22,
+      "boundary_source": "filename_hint"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "1A_U5U6.pdf",
+      "publisher": "PRIMARY_FORM_TOKEN",
+      "series": null,
+      "form_number": 1,
+      "track": "A",
+      "unit": null,
+      "inferred_grade": "P1"
+    },
+    "inference": {
+      "predicted_grade": "SKIPPED",
+      "skipped_reason": "frozen_grade"
+    },
+    "final": {
+      "predicted_grade": "P1",
+      "confidence": 1.0,
+      "signal": "canonical_parser",
+      "source_of_truth": "canonical_parser"
+    }
+  },
+  "total_units_detected": 1
+}

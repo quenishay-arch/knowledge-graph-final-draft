@@ -1,0 +1,467 @@
+{
+  "grade": "S3",
+  "predicted_grade": "S3",
+  "source_file": "filw.pdf",
+  "extractions": [
+    {
+      "unit_title": "Module: Leisure and entertainment",
+      "grammar_points": [
+        "Indefinite pronouns",
+        "Bare infinitives",
+        "Defining and non-defining noun phrases"
+      ],
+      "vocabulary_themes": [
+        "Types of films",
+        "Adjectives for talking about films"
+      ],
+      "vocabulary_words": [
+        "romance",
+        "action",
+        "comedy",
+        "animation",
+        "fantasy",
+        "science",
+        "fiction",
+        "cruise",
+        "legend",
+        "set forth",
+        "broaden our horizons",
+        "Onward",
+        "Jungle Cruise",
+        "hilarious",
+        "gripping",
+        "heart-warming",
+        "realistic",
+        "outstanding",
+        "suspenseful",
+        "awful",
+        "cheesy",
+        "confusing",
+        "dull",
+        "horrible",
+        "illogical",
+        "uninspiring",
+        "uninteresting"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening"
+      ],
+      "start_page": 1,
+      "end_page": 32,
+      "unit_number": ""
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "curriculum_topics",
+  "canonical": {
+    "file": "filw.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "S3",
+    "source": "curriculum_topics",
+    "source_of_truth": "curriculum_topics",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:32",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "filw.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "filw.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:32",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "worksheet",
+      "evidence": [
+        "Guessing the meaning of unknown words and expressions",
+        "Activity 1 You have found an online game about films. Match the films with the correct genres.",
+        "Activity 2 Your teacher wants to know if you understand some of the words",
+        "Comprehension 1 & 2 Read the film poster and the film synopsis, and answer the questions."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "",
+      "textbook_series": "",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "Module: Leisure and entertainment",
+        "This team, however, wants to use the tree’s power for evil. Dr Houghton and Frank must find the tree first!",
+        "content_grade_inference: The module focuses on leisure and entertainment related to films, which aligns with typical topics for P5 students.",
+        "content_grade_inference: Grammar points such as indefinite pronouns and components of noun phrases indicate a level suitable for P5 writing tasks.",
+        "content_grade_inference: The activities involve matching genres, guessing meanings, and comprehension questions, which are consistent with P5 curriculum activities."
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "S3",
+    "level_confidence": 0.637,
+    "level_evidence": [
+      {
+        "evidence": "The module focuses on leisure and entertainment related to films, which aligns with typical topics for P5 students., Grammar points such as indefinite pronouns and components of noun phrases indicate a level suitable for P5 writing tasks., The activities involve matching genres, guessing meanings, and comprehension questions, which are consistent with P5 curriculum activities.",
+        "suggested_level": "P5",
+        "confidence": 0.8
+      },
+      {
+        "evidence": "bare infinitive, essay, film review, indefinite pronoun, noun phrase",
+        "suggested_level": "S3",
+        "confidence": 0.85
+      },
+      {
+        "evidence": "paragraph",
+        "suggested_level": "P3",
+        "confidence": 0.5700000000000001
+      },
+      {
+        "evidence": "teenage",
+        "suggested_level": "S1",
+        "confidence": 0.5700000000000001
+      },
+      {
+        "evidence": "avg_sentence_words=13.3, long_word_ratio=0.13",
+        "suggested_level": "P4",
+        "confidence": 0.45
+      }
+    ],
+    "consistency_issues": [
+      "Long document produced one unit; human check may be needed."
+    ],
+    "level_decision_trace": [
+      "curriculum_topics: S3 (0.85)",
+      "semantic_content: P5 (0.80)",
+      "curriculum_topics: P3 (0.57)",
+      "curriculum_topics: S1 (0.57)",
+      "lexical_complexity: P4 (0.45)",
+      "Conflicting grade signals: P3, P4, P5, S1, S3.",
+      "Long document produced one unit; human check may be needed."
+    ],
+    "total_units_detected": 1,
+    "document_unit_number": ""
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Module: Leisure and entertainment",
+      "start_page": 1,
+      "end_page": 32,
+      "boundary_source": "heading"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 24,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 28,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 29,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 30,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 31,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 32,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "filw.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": {
+      "predicted_grade": "P5",
+      "confidence": 0.8,
+      "evidence": [
+        "The module focuses on leisure and entertainment related to films, which aligns with typical topics for P5 students.",
+        "Grammar points such as indefinite pronouns and components of noun phrases indicate a level suitable for P5 writing tasks.",
+        "The activities involve matching genres, guessing meanings, and comprehension questions, which are consistent with P5 curriculum activities."
+      ],
+      "reasoning_summary": "The content and complexity of the material align well with Primary 5 English curriculum standards, focusing on reading comprehension, vocabulary, and basic grammar."
+    },
+    "grade_decision": {
+      "grade": "S3",
+      "confidence": 0.637,
+      "source": "curriculum_topics",
+      "signals": [
+        {
+          "source": "semantic_content",
+          "grade": "P5",
+          "confidence": 0.8,
+          "priority": 2,
+          "evidence": [
+            "The module focuses on leisure and entertainment related to films, which aligns with typical topics for P5 students.",
+            "Grammar points such as indefinite pronouns and components of noun phrases indicate a level suitable for P5 writing tasks.",
+            "The activities involve matching genres, guessing meanings, and comprehension questions, which are consistent with P5 curriculum activities."
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "S3",
+          "confidence": 0.85,
+          "priority": 2,
+          "evidence": [
+            "bare infinitive",
+            "essay",
+            "film review",
+            "indefinite pronoun",
+            "noun phrase"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P3",
+          "confidence": 0.5700000000000001,
+          "priority": 2,
+          "evidence": [
+            "paragraph"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "S1",
+          "confidence": 0.5700000000000001,
+          "priority": 2,
+          "evidence": [
+            "teenage"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "P4",
+          "confidence": 0.45,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=13.3",
+            "long_word_ratio=0.13"
+          ]
+        }
+      ],
+      "warnings": [
+        "Conflicting grade signals: P3, P4, P5, S1, S3."
+      ],
+      "needs_human_review": true
+    },
+    "final": {
+      "predicted_grade": "S3",
+      "confidence": 0.637,
+      "signal": "curriculum_topics",
+      "source_of_truth": "curriculum_topics",
+      "needs_human_review": true
+    }
+  },
+  "total_units_detected": 1,
+  "text_quality": {
+    "total_chars": 42960,
+    "chars_per_page": 1342.5,
+    "unique_pages": 32,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 68,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 1,
+    "confidence": 0.55,
+    "boundary_sources": [
+      "heading"
+    ],
+    "warnings": [
+      "Long document produced one unit; human check may be needed."
+    ],
+    "needs_human_review": true,
+    "structural_unit_count": 1,
+    "structural_source": "segmentation",
+    "structural_signals": [
+      {
+        "source": "regex_scan",
+        "count": 0,
+        "confidence": 0.0,
+        "evidence": []
+      },
+      {
+        "source": "toc_parse",
+        "count": 0,
+        "confidence": 0.0,
+        "evidence": []
+      },
+      {
+        "source": "header_grouping",
+        "count": 0,
+        "confidence": 0.0,
+        "evidence": []
+      },
+      {
+        "source": "segmentation",
+        "count": 1,
+        "confidence": 0.75,
+        "evidence": [
+          "hybrid segmenter produced 1 chunks"
+        ]
+      }
+    ]
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": true,
+    "text_quality": false,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}

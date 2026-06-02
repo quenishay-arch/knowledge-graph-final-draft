@@ -1,0 +1,341 @@
+{
+  "grade": "S1",
+  "predicted_grade": "S1",
+  "source_file": "NTP3E_1BU7.pdf",
+  "extractions": [
+    {
+      "unit_title": "Wonderful things and people",
+      "grammar_points": [
+        "Order of adjectives",
+        "Imperatives",
+        "Prepositions of movement and transport"
+      ],
+      "vocabulary_themes": [
+        "Types of transport",
+        "Places in a city"
+      ],
+      "vocabulary_words": [
+        "minibus",
+        "The Peak Tram",
+        "bus",
+        "Tai Mo Shan",
+        "Victoria Peak",
+        "Hong Kong Island",
+        "Cheung Chau",
+        "Lantau Island",
+        "International Commerce Centre (ICC)",
+        "Bank of China Tower",
+        "International Finance Centre (IFC)",
+        "Mido Cafe",
+        "618 Shanghai Street",
+        "Kowloon Walled City Park"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening"
+      ],
+      "start_page": 1,
+      "end_page": 28,
+      "unit_number": ""
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "S1",
+  "grade_source": "canonical_parser",
+  "canonical": {
+    "file": "NTP3E_1BU7.pdf",
+    "parsed_form": 1,
+    "parsed": {
+      "publisher": "NTP",
+      "series": "3E",
+      "form_number": 1,
+      "track": "B",
+      "unit": "7"
+    },
+    "final_grade": "S1",
+    "source": "canonical_parser",
+    "source_of_truth": "canonical_parser",
+    "inference_used": false
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:28",
+      "toc_entries:0",
+      "form_number:1",
+      "filename_grade_hint:S1"
+    ],
+    "structure": {
+      "source_file": "NTP3E_1BU7.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_1BU7.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 1,
+        "track": "B",
+        "unit": "7",
+        "inferred_grade": "S1"
+      },
+      "locked_grade": "S1",
+      "filename_grade_hint": "S1",
+      "grade_source": "canonical_parser",
+      "page_count": 28,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:28",
+        "toc_entries:0",
+        "form_number:1",
+        "filename_grade_hint:S1"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "single_unit",
+      "evidence": [
+        "Module: Wonderful things and people",
+        "Activity 1  How well do you know Hong Kong? Take the quiz to find out.",
+        "Activity 2  Your teacher wants you to study the reading texts before class.",
+        " We can use imperatives in an itinerary to give directions and offer advice."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "",
+      "textbook_series": "",
+      "source_code": "NTP3E",
+      "semester_or_book": "",
+      "unit_number": "7",
+      "filename_grade_hint": "1B",
+      "filename_unit_hint": "7",
+      "school_level": "secondary",
+      "units_explicitly_listed": true,
+      "evidence": [
+        "Module: Wonderful things and people",
+        "Activity 2  Your teacher wants you to study the reading texts before class. Skim and scan the texts on pages 68, 70 and 72, and answer the questions.",
+        "You are attending the History Club’s one-day tour. Read the tour’s itinerary.",
+        "source code from filename: NTP3E",
+        "canonical parser: NTP form=1 -> S1",
+        "canonical unit: U7",
+        "filename source code: NTP3E",
+        "filename token: 1BU7",
+        "content_grade_inference: Module: Wonderful things and people",
+        "content_grade_inference: Skills: Identifying the main theme, Understanding and following directions, Using appropriate intonation, Describing places, Using the suffixes -ful, -less and -ness",
+        "content_grade_inference: Grammar: Order of adjectives, Imperatives, Prepositions of movement and transport",
+        "content_grade_inference: Vocabulary: Types of transport, Places in a city",
+        "content_grade_inference: Activity 1 How well do you know Hong Kong?"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "S1",
+    "level_confidence": 0.98,
+    "level_evidence": [],
+    "consistency_issues": [
+      "Filename unit hint [7] disagrees with detected units [1].",
+      "Long document produced one unit; human check may be needed.",
+      "Unit segmentation flagged for human review."
+    ],
+    "level_decision_trace": [
+      "NTP form lock: S1 (form 1)",
+      "Filename unit hint [7] disagrees with detected units [1].",
+      "Long document produced one unit; human check may be needed.",
+      "Unit segmentation flagged for human review."
+    ],
+    "total_units_detected": 1,
+    "document_unit_number": "7"
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Wonderful things and people",
+      "start_page": 1,
+      "end_page": 28,
+      "boundary_source": "module_subunits"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 24,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 28,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "NTP3E_1BU7.pdf",
+      "publisher": "NTP",
+      "series": "3E",
+      "form_number": 1,
+      "track": "B",
+      "unit": "7",
+      "inferred_grade": "S1"
+    },
+    "grade_decision": {
+      "grade": "S1",
+      "source": "filename_ntp",
+      "warnings": []
+    },
+    "final": {
+      "predicted_grade": "S1",
+      "confidence": 0.98,
+      "signal": "filename_ntp",
+      "source_of_truth": "canonical_parser",
+      "needs_human_review": false
+    }
+  },
+  "total_units_detected": 1,
+  "text_quality": {
+    "total_chars": 34230,
+    "chars_per_page": 1222.5,
+    "unique_pages": 28,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 65,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 1,
+    "detected_unit_count": 1,
+    "detected_units": [
+      "Unit 1: Wonderful things and people"
+    ],
+    "confidence": 0.55,
+    "boundary_sources": [
+      "module_subunits"
+    ],
+    "structural_source": "module_subunits",
+    "cross_check": {
+      "counts_by_source": {
+        "module_subunits": 1,
+        "segmentation": 1
+      },
+      "agreement": true
+    },
+    "warnings": [
+      "Filename unit hint [7] disagrees with detected units [1].",
+      "Long document produced one unit; human check may be needed."
+    ],
+    "needs_human_review": true,
+    "filename_unit_hint": [
+      7
+    ]
+  },
+  "human_review_flags": {
+    "grade": false,
+    "units": true,
+    "text_quality": false,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}

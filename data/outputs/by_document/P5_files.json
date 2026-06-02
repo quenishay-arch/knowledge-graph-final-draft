@@ -1,0 +1,471 @@
+{
+  "grade": "P5",
+  "predicted_grade": "P5",
+  "source_file": "files.pdf",
+  "extractions": [
+    {
+      "unit_title": "International food fair",
+      "grammar_points": [
+        "Use the passive voice in the simple present tense.",
+        "Use formulaic expressions to make suggestions.",
+        "Use ‘too few’, ‘too little’, ‘enough’, ‘too many’ and ‘too much’ to talk about things in different quantities."
+      ],
+      "vocabulary_themes": [
+        "countries and nationalities",
+        "popular dishes from various countries"
+      ],
+      "vocabulary_words": [
+        "satay",
+        "kimchi",
+        "tempura"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 1,
+      "end_page": 10,
+      "unit_number": "1"
+    },
+    {
+      "unit_title": "Unit 2: More places to see in Hong Kong",
+      "grammar_points": [
+        "Use the passive voice in the simple present tense",
+        "Use formulaic expressions to make suggestions",
+        "Use ‘too few/little’, ‘enough’ and ‘too many/much’ to talk about quantity",
+        "Use ‘for’ and ‘since’ to talk about time",
+        "Use the present perfect tense to ask and answer questions",
+        "Use ‘ever’ and ‘never’ to ask and answer questions"
+      ],
+      "vocabulary_themes": [
+        "countries and nationalities",
+        "popular dishes",
+        "what tourists do in Hong Kong"
+      ],
+      "vocabulary_words": [
+        "Korea",
+        "Korean",
+        "kimchi",
+        "tempura",
+        "satay and peanut sauce",
+        "Indonesia",
+        "Indonesian",
+        "peanut sauce",
+        "Japan",
+        "Japanese",
+        "dip",
+        "deep-fry",
+        "the light show",
+        "the Hong Kong Observation Wheel",
+        "art exhibition",
+        "museum",
+        "a Chinese opera show",
+        "the Clock Tower",
+        "a walled village",
+        "Stanley Beach",
+        "souvenirs",
+        "dim sum"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 11,
+      "end_page": 34,
+      "unit_number": "2"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "explicit_metadata",
+  "canonical": {
+    "file": "files.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P5",
+    "source": "explicit_metadata",
+    "source_of_truth": "explicit_metadata",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:34",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "files.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "files.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 34,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:34",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "single_unit",
+      "evidence": [
+        "Module: Places and activities (Units 1–2)",
+        "Unit Vocabulary",
+        "Language structures",
+        "Unit 1 International food fair",
+        "Unit 2 More places to see in Hong Kong"
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "Primary 5",
+      "publisher": "Hong Kong Metropolitan University",
+      "textbook_series": "Open English, Primary 1–6",
+      "source_code": "",
+      "semester_or_book": "Book",
+      "unit_number": "Unit 1",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "primary",
+      "units_explicitly_listed": true,
+      "evidence": [
+        "Explicit grade label: \"5B\"",
+        "Publisher: \"The content in this publication is copyrighted by Hong Kong Metropolitan University.\"",
+        "Textbook series: \"Open English, Primary 1–6\"",
+        "Unit Number: \"Unit 1 International food fair\"",
+        "School level: \"primary\"",
+        "Units explicitly listed: visible module list includes \"Places and activities (Units 1–2)\""
+      ]
+    },
+    "claimed_level": "P5",
+    "inferred_level": "P5",
+    "level_confidence": 0.98,
+    "level_evidence": [
+      {
+        "evidence": "passive voice, present perfect",
+        "suggested_level": "P5",
+        "confidence": 0.798
+      },
+      {
+        "evidence": "avg_sentence_words=10.8, long_word_ratio=0.09",
+        "suggested_level": "P4",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [],
+    "level_decision_trace": [
+      "explicit_metadata: P5 (0.94)",
+      "curriculum_topics: P5 (0.80)",
+      "lexical_complexity: P4 (0.38)",
+      "metadata: P5 (0.72)"
+    ],
+    "total_units_detected": 2,
+    "document_unit_number": "Unit 1"
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 1: International food fair suggestions.",
+      "start_page": 1,
+      "end_page": 10,
+      "boundary_source": "toc"
+    },
+    {
+      "unit_title": "Unit 2: More places to see in Hong Kong",
+      "start_page": 11,
+      "end_page": 34,
+      "boundary_source": "toc"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 2,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 24,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 28,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 29,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 30,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 31,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 32,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 33,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 34,
+      "page_type": "cover_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "files.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": null,
+    "grade_decision": {
+      "grade": "P5",
+      "confidence": 0.98,
+      "source": "explicit_metadata",
+      "signals": [
+        {
+          "source": "explicit_metadata",
+          "grade": "P5",
+          "confidence": 0.94,
+          "priority": 0,
+          "evidence": [
+            "Explicit grade label: \"5B\"",
+            "Publisher: \"The content in this publication is copyrighted by Hong Kong Metropolitan University.\"",
+            "Textbook series: \"Open English, Primary 1–6\"",
+            "Unit Number: \"Unit 1 International food fair\"",
+            "School level: \"primary\""
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P5",
+          "confidence": 0.798,
+          "priority": 2,
+          "evidence": [
+            "passive voice",
+            "present perfect"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "P4",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=10.8",
+            "long_word_ratio=0.09"
+          ]
+        },
+        {
+          "source": "metadata",
+          "grade": "P5",
+          "confidence": 0.72,
+          "priority": 4,
+          "evidence": [
+            "Explicit grade label: \"5B\"",
+            "Publisher: \"The content in this publication is copyrighted by Hong Kong Metropolitan University.\"",
+            "Textbook series: \"Open English, Primary 1–6\"",
+            "Unit Number: \"Unit 1 International food fair\"",
+            "School level: \"primary\""
+          ]
+        }
+      ],
+      "warnings": [],
+      "needs_human_review": false,
+      "confidence_factors": {
+        "priority": 0,
+        "source": "explicit_metadata",
+        "basis": "explicit_marker",
+        "content_agreement": true,
+        "final_confidence": 0.98
+      }
+    },
+    "final": {
+      "predicted_grade": "P5",
+      "confidence": 0.98,
+      "signal": "explicit_metadata",
+      "source_of_truth": "explicit_metadata",
+      "needs_human_review": false,
+      "confidence_factors": {
+        "priority": 0,
+        "source": "explicit_metadata",
+        "basis": "explicit_marker",
+        "content_agreement": true,
+        "final_confidence": 0.98
+      }
+    }
+  },
+  "total_units_detected": 2,
+  "text_quality": {
+    "total_chars": 29392,
+    "chars_per_page": 864.4705882352941,
+    "unique_pages": 34,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 75,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 2,
+    "detected_unit_count": 2,
+    "detected_units": [
+      "Unit 1: International food fair suggestions.",
+      "Unit 2: More places to see in Hong Kong"
+    ],
+    "confidence": 0.93,
+    "boundary_sources": [
+      "toc"
+    ],
+    "structural_source": "toc_parse",
+    "cross_check": {
+      "counts_by_source": {
+        "structural_marker": 2,
+        "toc_parse": 2,
+        "header_grouping": 2,
+        "segmentation": 2
+      },
+      "agreement": true
+    },
+    "warnings": [],
+    "needs_human_review": false,
+    "filename_unit_hint": []
+  },
+  "human_review_flags": {
+    "grade": false,
+    "units": false,
+    "text_quality": false,
+    "overall": false
+  },
+  "visual_unit_boundary_plan": null
+}

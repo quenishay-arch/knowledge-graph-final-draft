@@ -1,0 +1,589 @@
+{
+  "grade": "P2",
+  "predicted_grade": "P2",
+  "source_file": "05_plet2e_2b_c1_c2.pdf",
+  "extractions": [
+    {
+      "unit_title": "Let’s help at home",
+      "grammar_points": [],
+      "vocabulary_themes": [
+        "helping at home",
+        "fairy tales"
+      ],
+      "vocabulary_words": [
+        "dwarfs",
+        "clean",
+        "help",
+        "sets the table",
+        "cooks",
+        "walks the dog",
+        "waters the plants",
+        "clears the table",
+        "wakes up"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening"
+      ],
+      "start_page": 3,
+      "end_page": 4,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Good boys and girls",
+      "grammar_points": [],
+      "vocabulary_themes": [
+        "character traits",
+        "school behavior",
+        "helpfulness"
+      ],
+      "vocabulary_words": [],
+      "language_skills": [
+        "Reading"
+      ],
+      "start_page": 13,
+      "end_page": 14,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Listening & Speaking",
+      "grammar_points": [],
+      "vocabulary_themes": [],
+      "vocabulary_words": [],
+      "language_skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "start_page": 10,
+      "end_page": 10,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Reading",
+      "grammar_points": [
+        "+s",
+        "+es",
+        "y->ies"
+      ],
+      "vocabulary_themes": [
+        "adjectives describing personality",
+        "verbs related to daily activities"
+      ],
+      "vocabulary_words": [
+        "hard-working",
+        "lazy",
+        "polite",
+        "rude",
+        "help",
+        "plays",
+        "push",
+        "washes",
+        "watches",
+        "sweep",
+        "study",
+        "tidy"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening"
+      ],
+      "start_page": 15,
+      "end_page": 16,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Post-reading",
+      "grammar_points": [
+        "does not"
+      ],
+      "vocabulary_themes": [
+        "honesty",
+        "friendship"
+      ],
+      "vocabulary_words": [
+        "honest",
+        "lazy",
+        "untidy",
+        "study",
+        "tell lies",
+        "tidy"
+      ],
+      "language_skills": [
+        "Speaking",
+        "Writing"
+      ],
+      "start_page": 17,
+      "end_page": 17,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Language focus 2",
+      "grammar_points": [],
+      "vocabulary_themes": [
+        "personal information"
+      ],
+      "vocabulary_words": [
+        "name",
+        "age",
+        "class",
+        "helpful",
+        "polite",
+        "tidy",
+        "honest",
+        "hard-working"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing"
+      ],
+      "start_page": 19,
+      "end_page": 19,
+      "unit_number": ""
+    },
+    {
+      "unit_title": "Task",
+      "grammar_points": [
+        "simple present tense to ask and answer questions",
+        "simple present tense to talk about habits",
+        "adjectives to describe people",
+        "simple present tense to talk about facts"
+      ],
+      "vocabulary_themes": [
+        "housework",
+        "habits",
+        "describing people"
+      ],
+      "vocabulary_words": [
+        "housework",
+        "back covers",
+        "adjectives"
+      ],
+      "language_skills": [
+        "Writing"
+      ],
+      "start_page": 21,
+      "end_page": 21,
+      "unit_number": ""
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "semantic_content",
+  "canonical": {
+    "file": "05_plet2e_2b_c1_c2.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P2",
+    "source": "semantic_content",
+    "source_of_truth": "semantic_content",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:21",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "05_plet2e_2b_c1_c2.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 21,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:21",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "toc_only",
+      "evidence": [
+        "Pearson Education Asia Limited 2022 All rights reserved; no part of this publication may be reproduced, photocopied, recorded or otherwise, without the prior written permission of Pearson Education Asia Limited."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "Pearson Education Asia Limited",
+      "textbook_series": "",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "© Pearson Education Asia Limited 2022",
+        "All rights reserved; no part of this publication may be reproduced, photocopied, recorded or otherwise, without the prior written permission of Pearson Education Asia Limited.",
+        "content_grade_inference: Unit candidate 1: Let’s help at home",
+        "content_grade_inference: Vocabulary themes: ['helping at home', 'fairy tales']",
+        "content_grade_inference: Unit candidate 4: Reading",
+        "content_grade_inference: Grammar: ['+s', '+es', 'y->ies']",
+        "content_grade_inference: Vocabulary themes: ['adjectives describing personality', 'verbs related to daily activities']"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "P2",
+    "level_confidence": 0.68,
+    "level_evidence": [
+      {
+        "evidence": "Unit candidate 1: Let’s help at home, Vocabulary themes: ['helping at home', 'fairy tales'], Unit candidate 4: Reading, Grammar: ['+s', '+es', 'y->ies'], Vocabulary themes: ['adjectives describing personality', 'verbs related to daily activities']",
+        "suggested_level": "P2",
+        "confidence": 0.85
+      },
+      {
+        "evidence": "avg_sentence_words=30.0, long_word_ratio=0.30",
+        "suggested_level": "S4",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "level_decision_trace": [
+      "semantic_content: P2 (0.85)",
+      "lexical_complexity: S4 (0.38)",
+      "Grade inferred from content only; no explicit marker or clear filename.",
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "total_units_detected": 7,
+    "document_unit_number": ""
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Let’s help at home",
+      "start_page": 3,
+      "end_page": 4,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Good boys and girls",
+      "start_page": 13,
+      "end_page": 14,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Listening & Speaking",
+      "start_page": 10,
+      "end_page": 10,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Reading",
+      "start_page": 15,
+      "end_page": 16,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Post-reading",
+      "start_page": 17,
+      "end_page": 17,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Language focus 2",
+      "start_page": 19,
+      "end_page": 19,
+      "boundary_source": "visual_unit_boundary"
+    },
+    {
+      "unit_title": "Task",
+      "start_page": 21,
+      "end_page": 21,
+      "boundary_source": "visual_unit_boundary"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": {
+      "predicted_grade": "P2",
+      "confidence": 0.85,
+      "evidence": [
+        "Unit candidate 1: Let’s help at home",
+        "Vocabulary themes: ['helping at home', 'fairy tales']",
+        "Unit candidate 4: Reading",
+        "Grammar: ['+s', '+es', 'y->ies']",
+        "Vocabulary themes: ['adjectives describing personality', 'verbs related to daily activities']"
+      ],
+      "reasoning_summary": "The material covers basic vocabulary and grammar suitable for Primary 2, including themes like 'helping at home' and simple grammar such as pluralization and basic adjectives."
+    },
+    "grade_decision": {
+      "grade": "P2",
+      "confidence": 0.68,
+      "source": "semantic_content",
+      "signals": [
+        {
+          "source": "semantic_content",
+          "grade": "P2",
+          "confidence": 0.85,
+          "priority": 2,
+          "evidence": [
+            "Unit candidate 1: Let’s help at home",
+            "Vocabulary themes: ['helping at home', 'fairy tales']",
+            "Unit candidate 4: Reading",
+            "Grammar: ['+s', '+es', 'y->ies']",
+            "Vocabulary themes: ['adjectives describing personality', 'verbs related to daily activities']"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "S4",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=30.0",
+            "long_word_ratio=0.30"
+          ]
+        }
+      ],
+      "warnings": [
+        "Grade inferred from content only; no explicit marker or clear filename."
+      ],
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    },
+    "final": {
+      "predicted_grade": "P2",
+      "confidence": 0.68,
+      "signal": "semantic_content",
+      "source_of_truth": "semantic_content",
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 2,
+        "source": "semantic_content",
+        "content_agreement": true,
+        "content_only": true,
+        "final_confidence": 0.68
+      }
+    }
+  },
+  "total_units_detected": 7,
+  "text_quality": {
+    "total_chars": 4641,
+    "chars_per_page": 221.0,
+    "unique_pages": 1,
+    "repeated_ratio": 0.9523809523809523,
+    "curriculum_terms": 0,
+    "likely_insufficient": true
+  },
+  "unit_quality": {
+    "unit_count": 7,
+    "detected_unit_count": 7,
+    "detected_units": [],
+    "confidence": 0.72,
+    "boundary_sources": [
+      "visual_unit_boundary"
+    ],
+    "structural_source": "segmentation",
+    "cross_check": {
+      "counts_by_source": {
+        "segmentation": 7
+      },
+      "agreement": true
+    },
+    "warnings": [],
+    "needs_human_review": false,
+    "filename_unit_hint": [
+      1,
+      2
+    ]
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": false,
+    "text_quality": true,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": {
+    "units": [
+      {
+        "unit_title": "Let’s help at home",
+        "start_page": 3,
+        "end_page": 4,
+        "evidence": [
+          "Page 3 has the title 'Let’s help at home' and the vocabulary section labeled 'Housework'. Page 4 continues with related vocabulary and visuals."
+        ]
+      },
+      {
+        "unit_title": "Good boys and girls",
+        "start_page": 13,
+        "end_page": 14,
+        "evidence": [
+          "Page 13 introduces 'Good boys and girls' in a vocabulary section. Page 14 continues the theme with relevant vocabulary."
+        ]
+      },
+      {
+        "unit_title": "Listening & Speaking",
+        "start_page": 10,
+        "end_page": 10,
+        "evidence": [
+          "Page 10 has a distinct section titled 'Listening & Speaking'."
+        ]
+      },
+      {
+        "unit_title": "Reading",
+        "start_page": 15,
+        "end_page": 16,
+        "evidence": [
+          "Page 15 starts a reading section. Page 16 continues the narrative around 'Pinocchio', indicating a cohesive unit."
+        ]
+      },
+      {
+        "unit_title": "Post-reading",
+        "start_page": 17,
+        "end_page": 17,
+        "evidence": [
+          "Page 17 has a section labeled 'Post-reading' that continues from the previous reading unit."
+        ]
+      },
+      {
+        "unit_title": "Language focus 2",
+        "start_page": 19,
+        "end_page": 19,
+        "evidence": [
+          "Page 19 begins a new focus on language."
+        ]
+      },
+      {
+        "unit_title": "Task",
+        "start_page": 21,
+        "end_page": 23,
+        "evidence": [
+          "Page 21 starts a task section that continues through page 23, indicating a cohesive unit."
+        ]
+      }
+    ],
+    "confidence": 0.9,
+    "evidence": [
+      "The document contains distinct and visible headings that clearly mark unit boundaries, such as titles and content organization. Each unit focuses on different pedagogical topics relevant to teaching materials."
+    ]
+  }
+}

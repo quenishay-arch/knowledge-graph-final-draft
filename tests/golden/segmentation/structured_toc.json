@@ -1,0 +1,7 @@
+{
+  "chunk_count_min": 2,
+  "chunk_count_max": 6,
+  "titles_contain_any": ["Unit 1", "Unit 2", "My family", "At school"],
+  "titles_must_not": [],
+  "boundary_sources_allowed": ["toc", "heading", "module_heading", "regex_flat", "page_cluster", "structural_marker", "numeric_header"]
+}

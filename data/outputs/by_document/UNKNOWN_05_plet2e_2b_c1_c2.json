@@ -1,0 +1,189 @@
+{
+  "grade": "UNKNOWN",
+  "predicted_grade": "UNKNOWN",
+  "source_file": "05_plet2e_2b_c1_c2.pdf",
+  "extractions": [],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "none",
+  "canonical": {
+    "file": "05_plet2e_2b_c1_c2.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "UNKNOWN",
+    "source": "none",
+    "source_of_truth": "none",
+    "inference_used": false
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:0",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "05_plet2e_2b_c1_c2.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 0,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:0",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "unknown",
+      "evidence": [
+        "No snippet provided to classify document type."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "",
+      "textbook_series": "",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "No explicit grade label found",
+        "No publisher information available",
+        "No textbook series mentioned",
+        "No source code provided",
+        "No indication of semester or book",
+        "No unit number shown",
+        "School level unknown",
+        "No units or module list visible"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "Unknown",
+    "level_confidence": 0.0,
+    "level_evidence": [],
+    "consistency_issues": [
+      "No unit-level extractions were produced.",
+      "Filename hints units [1, 2] but no structural markers found in text.",
+      "No unit chunks produced.",
+      "No reliable unit/chapter/module boundary markers found.",
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review.",
+      "Unit segmentation flagged for human review."
+    ],
+    "level_decision_trace": [
+      "No grade signals found.",
+      "No unit-level extractions were produced.",
+      "Filename hints units [1, 2] but no structural markers found in text.",
+      "No unit chunks produced.",
+      "No reliable unit/chapter/module boundary markers found.",
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review.",
+      "Unit segmentation flagged for human review."
+    ],
+    "total_units_detected": 0,
+    "document_unit_number": ""
+  },
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "05_plet2e_2b_c1_c2.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": {
+      "predicted_grade": "Unknown",
+      "confidence": 0.0,
+      "evidence": [],
+      "reasoning_summary": "The provided material does not contain sufficient information to infer a school grade."
+    },
+    "grade_decision": {
+      "grade": "UNKNOWN",
+      "confidence": 0.0,
+      "source": "none",
+      "signals": [],
+      "warnings": [
+        "No grade signals found."
+      ],
+      "needs_human_review": true,
+      "confidence_factors": {
+        "basis": "none"
+      }
+    },
+    "final": {
+      "predicted_grade": "UNKNOWN",
+      "confidence": 0.0,
+      "signal": "none",
+      "source_of_truth": "none",
+      "needs_human_review": true,
+      "confidence_factors": {
+        "basis": "none"
+      }
+    }
+  },
+  "total_units_detected": 0,
+  "text_quality": {
+    "total_chars": 0,
+    "chars_per_page": 0.0,
+    "unique_pages": 0,
+    "repeated_ratio": 1.0,
+    "curriculum_terms": 0,
+    "likely_insufficient": true
+  },
+  "unit_quality": {
+    "unit_count": 0,
+    "detected_unit_count": 0,
+    "detected_units": [],
+    "confidence": 0.0,
+    "boundary_sources": [],
+    "structural_source": "none",
+    "cross_check": {
+      "counts_by_source": {},
+      "agreement": true
+    },
+    "warnings": [
+      "Filename hints units [1, 2] but no structural markers found in text.",
+      "No unit chunks produced.",
+      "No reliable unit/chapter/module boundary markers found."
+    ],
+    "needs_human_review": true,
+    "filename_unit_hint": [
+      1,
+      2
+    ]
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": true,
+    "text_quality": true,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}

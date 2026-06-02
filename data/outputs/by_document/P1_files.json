@@ -1,0 +1,511 @@
+{
+  "grade": "P1",
+  "predicted_grade": "P1",
+  "source_file": "files.pdf",
+  "extractions": [
+    {
+      "unit_title": "International food fair",
+      "grammar_points": [
+        "Use the passive voice in the simple present tense.",
+        "Use formulaic expressions to make suggestions.",
+        "Use ‘too few’, ‘too little’, ‘enough’, ‘too many’ and ‘too much’ to talk about things in different quantities."
+      ],
+      "vocabulary_themes": [
+        "countries and nationalities",
+        "popular dishes from various countries"
+      ],
+      "vocabulary_words": [
+        "tempura",
+        "satay",
+        "kimchi"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking"
+      ],
+      "start_page": 1,
+      "end_page": 10,
+      "unit_number": "1"
+    },
+    {
+      "unit_title": "Unit 2: More places to see in Hong Kong",
+      "grammar_points": [
+        "passive voice in the simple present tense",
+        "formulaic expressions to make suggestions",
+        "too few/little, enough and too many/much to talk about quantity",
+        "Use ‘for’ and ‘since’ to talk about time",
+        "present perfect tense",
+        "ever and never to ask and answer questions"
+      ],
+      "vocabulary_themes": [
+        "countries and nationalities",
+        "popular dishes",
+        "what tourists do in Hong Kong"
+      ],
+      "vocabulary_words": [
+        "Korea",
+        "Korean",
+        "Indonesia",
+        "Indonesian",
+        "Japan",
+        "Japanese",
+        "kimchi",
+        "tempura",
+        "satay and peanut sauce",
+        "dip",
+        "deep-fry",
+        "see the light show",
+        "ride on the Hong Kong Observation Wheel",
+        "pray in a temple",
+        "visit a museum",
+        "see an art exhibition",
+        "watch a Chinese opera show",
+        "visit a walled village",
+        "take photos of the Clock Tower"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 11,
+      "end_page": 34,
+      "unit_number": "2"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "explicit_text",
+  "canonical": {
+    "file": "files.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P1",
+    "source": "explicit_text",
+    "source_of_truth": "explicit_text",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:34",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "files.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "files.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 34,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:34",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "single_unit",
+      "evidence": [
+        "Module: Places and activities (Units 1–2)",
+        "Unit contents",
+        "1 Pre-reading",
+        "Text types",
+        "Main task"
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "Primary 5",
+      "publisher": "Hong Kong Metropolitan University",
+      "textbook_series": "Open English, Primary 1–6",
+      "source_code": "",
+      "semester_or_book": "Book 5B",
+      "unit_number": "Unit 1",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "primary",
+      "units_explicitly_listed": true,
+      "evidence": [
+        "First edition published in 2015",
+        "Open English, Primary 1–6 was developed by Hong Kong Metropolitan University",
+        "Module: Places and activities (Units 1–2)",
+        "Unit 1 International food fair"
+      ]
+    },
+    "claimed_level": "P5",
+    "inferred_level": "P1",
+    "level_confidence": 0.96,
+    "level_evidence": [
+      {
+        "evidence": "ever and never, passive voice, present perfect",
+        "suggested_level": "P5",
+        "confidence": 0.81
+      },
+      {
+        "evidence": "phonics",
+        "suggested_level": "P1",
+        "confidence": 0.5700000000000001
+      },
+      {
+        "evidence": "simple present",
+        "suggested_level": "P2",
+        "confidence": 0.5700000000000001
+      },
+      {
+        "evidence": "poem",
+        "suggested_level": "S2",
+        "confidence": 0.5700000000000001
+      },
+      {
+        "evidence": "avg_sentence_words=10.8, long_word_ratio=0.09",
+        "suggested_level": "P4",
+        "confidence": 0.45
+      }
+    ],
+    "consistency_issues": [
+      "Unit count mismatch across signals: header_grouping=2, module_subunits=1, segmentation=2, structural_marker=2, toc_parse=2.",
+      "Unit segmentation flagged for human review."
+    ],
+    "level_decision_trace": [
+      "explicit_text: P1 (0.96)",
+      "explicit_metadata: P5 (0.94)",
+      "curriculum_topics: P5 (0.81)",
+      "curriculum_topics: P1 (0.57)",
+      "curriculum_topics: P2 (0.57)",
+      "curriculum_topics: S2 (0.57)",
+      "lexical_complexity: P4 (0.45)",
+      "metadata: P1 (0.88)",
+      "Unit count mismatch across signals: header_grouping=2, module_subunits=1, segmentation=2, structural_marker=2, toc_parse=2.",
+      "Unit segmentation flagged for human review."
+    ],
+    "total_units_detected": 2,
+    "document_unit_number": "Unit 1"
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 1: International food fair suggestions.",
+      "start_page": 1,
+      "end_page": 10,
+      "boundary_source": "toc"
+    },
+    {
+      "unit_title": "Unit 2: More places to see in Hong Kong",
+      "start_page": 11,
+      "end_page": 34,
+      "boundary_source": "toc"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 2,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 24,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 28,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 29,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 30,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 31,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 32,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 33,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 34,
+      "page_type": "cover_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "files.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": null,
+    "grade_decision": {
+      "grade": "P1",
+      "confidence": 0.96,
+      "source": "explicit_text",
+      "signals": [
+        {
+          "source": "explicit_text",
+          "grade": "P1",
+          "confidence": 0.96,
+          "priority": 0,
+          "evidence": [
+            "Primary 1"
+          ]
+        },
+        {
+          "source": "explicit_metadata",
+          "grade": "P5",
+          "confidence": 0.94,
+          "priority": 0,
+          "evidence": [
+            "First edition published in 2015",
+            "Open English, Primary 1–6 was developed by Hong Kong Metropolitan University",
+            "Module: Places and activities (Units 1–2)",
+            "Unit 1 International food fair"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P5",
+          "confidence": 0.81,
+          "priority": 2,
+          "evidence": [
+            "ever and never",
+            "passive voice",
+            "present perfect"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P1",
+          "confidence": 0.5700000000000001,
+          "priority": 2,
+          "evidence": [
+            "phonics"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P2",
+          "confidence": 0.5700000000000001,
+          "priority": 2,
+          "evidence": [
+            "simple present"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "S2",
+          "confidence": 0.5700000000000001,
+          "priority": 2,
+          "evidence": [
+            "poem"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "P4",
+          "confidence": 0.45,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=10.8",
+            "long_word_ratio=0.09"
+          ]
+        },
+        {
+          "source": "metadata",
+          "grade": "P1",
+          "confidence": 0.88,
+          "priority": 4,
+          "evidence": [
+            "First edition published in 2015",
+            "Open English, Primary 1–6 was developed by Hong Kong Metropolitan University",
+            "Module: Places and activities (Units 1–2)",
+            "Unit 1 International food fair"
+          ]
+        }
+      ],
+      "warnings": [],
+      "needs_human_review": false
+    },
+    "final": {
+      "predicted_grade": "P1",
+      "confidence": 0.96,
+      "signal": "explicit_text",
+      "source_of_truth": "explicit_text",
+      "needs_human_review": false
+    }
+  },
+  "total_units_detected": 2,
+  "text_quality": {
+    "total_chars": 29392,
+    "chars_per_page": 864.4705882352941,
+    "unique_pages": 34,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 75,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 2,
+    "detected_unit_count": 1,
+    "detected_units": [
+      "Module (multi-text)"
+    ],
+    "confidence": 0.78,
+    "boundary_sources": [
+      "toc"
+    ],
+    "structural_source": "module_subunits",
+    "cross_check": {
+      "counts_by_source": {
+        "structural_marker": 2,
+        "toc_parse": 2,
+        "header_grouping": 2,
+        "module_subunits": 1,
+        "segmentation": 2
+      },
+      "agreement": false
+    },
+    "warnings": [
+      "Unit count mismatch across signals: header_grouping=2, module_subunits=1, segmentation=2, structural_marker=2, toc_parse=2."
+    ],
+    "needs_human_review": true,
+    "filename_unit_hint": []
+  },
+  "human_review_flags": {
+    "grade": false,
+    "units": true,
+    "text_quality": false,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}

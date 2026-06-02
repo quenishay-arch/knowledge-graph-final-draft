@@ -1,0 +1,371 @@
+{
+  "grade": "S3",
+  "predicted_grade": "S3",
+  "source_file": "NTP3E_3AU4.pdf",
+  "extractions": [
+    {
+      "unit_title": "Wonderful things and people",
+      "grammar_points": [
+        "Using sentence stress",
+        "Reported speech without tense change",
+        "Reported speech with tense change",
+        "Transitional words and phrases"
+      ],
+      "vocabulary_themes": [
+        "Performers and performances",
+        "Describing performances"
+      ],
+      "vocabulary_words": [
+        "piano",
+        "rubber band",
+        "saxophone",
+        "hip-hop music",
+        "pop",
+        "voice",
+        "BLACKPINK",
+        "comedy",
+        "drama",
+        "magic",
+        "musician",
+        "ballet",
+        "musical",
+        "stand-up comedy",
+        "talent show",
+        "daring",
+        "flawless",
+        "mind-blowing",
+        "dynamic",
+        "hair-raising",
+        "magnificent",
+        "world-class"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening"
+      ],
+      "start_page": 1,
+      "end_page": 32,
+      "unit_number": ""
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "S3",
+  "grade_source": "canonical_parser",
+  "canonical": {
+    "file": "NTP3E_3AU4.pdf",
+    "parsed_form": 3,
+    "parsed": {
+      "publisher": "NTP",
+      "series": "3E",
+      "form_number": 3,
+      "track": "A",
+      "unit": "4"
+    },
+    "final_grade": "S3",
+    "source": "canonical_parser",
+    "source_of_truth": "canonical_parser",
+    "inference_used": false
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:filename_ntp",
+      "publisher:NTP",
+      "page_count:32",
+      "toc_entries:0",
+      "form_number:3",
+      "filename_grade_hint:S3"
+    ],
+    "structure": {
+      "source_file": "NTP3E_3AU4.pdf",
+      "document_type_hint": "ntp_fragment",
+      "parsed": {
+        "raw_filename": "NTP3E_3AU4.pdf",
+        "publisher": "NTP",
+        "series": "3E",
+        "form_number": 3,
+        "track": "A",
+        "unit": "4",
+        "inferred_grade": "S3"
+      },
+      "locked_grade": "S3",
+      "filename_grade_hint": "S3",
+      "grade_source": "canonical_parser",
+      "page_count": 32,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:NTP",
+        "page_count:32",
+        "toc_entries:0",
+        "form_number:3",
+        "filename_grade_hint:S3"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "workbook",
+      "evidence": [
+        "Module: Wonderful things and people",
+        "Warming up",
+        "Activity 1",
+        "Speaking activity",
+        "Reading skill: Identifying attitudes",
+        "Activity 2",
+        "Comprehension 1"
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "",
+      "textbook_series": "",
+      "source_code": "NTP3E",
+      "semester_or_book": "",
+      "unit_number": "4",
+      "filename_grade_hint": "3A",
+      "filename_unit_hint": "4",
+      "school_level": "secondary",
+      "units_explicitly_listed": true,
+      "evidence": [
+        "Module: Wonderful things and people",
+        "Warming up Activity 1",
+        "Activity 2 Your teacher has asked you to identify the attitudes of some of the people in Texts 1 to 3.",
+        "source code from filename: NTP3E",
+        "canonical parser: NTP form=3 -> S3",
+        "canonical unit: U4",
+        "filename source code: NTP3E",
+        "filename token: 3AU4",
+        "content_grade_inference: Identifying attitudes",
+        "content_grade_inference: Using sentence stress",
+        "content_grade_inference: Summarizing opinions",
+        "content_grade_inference: Vocabulary related to performances",
+        "content_grade_inference: Grammar points on reporting statements and questions"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "S3",
+    "level_confidence": 0.98,
+    "level_evidence": [],
+    "consistency_issues": [
+      "Inferred level does not align with cross-unit grammar signals.",
+      "Filename unit hint [4] disagrees with detected units [1].",
+      "Long document produced one unit; human check may be needed.",
+      "Unit segmentation flagged for human review."
+    ],
+    "level_decision_trace": [
+      "NTP form lock: S3 (form 3)",
+      "Inferred level does not align with cross-unit grammar signals.",
+      "Filename unit hint [4] disagrees with detected units [1].",
+      "Long document produced one unit; human check may be needed.",
+      "Unit segmentation flagged for human review."
+    ],
+    "total_units_detected": 1,
+    "document_unit_number": "4"
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Wonderful things and people",
+      "start_page": 1,
+      "end_page": 32,
+      "boundary_source": "module_subunits"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "exercise_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "grammar_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 24,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 28,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 29,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 30,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 31,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 32,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "NTP3E_3AU4.pdf",
+      "publisher": "NTP",
+      "series": "3E",
+      "form_number": 3,
+      "track": "A",
+      "unit": "4",
+      "inferred_grade": "S3"
+    },
+    "grade_decision": {
+      "grade": "S3",
+      "source": "filename_ntp",
+      "warnings": []
+    },
+    "final": {
+      "predicted_grade": "S3",
+      "confidence": 0.98,
+      "signal": "filename_ntp",
+      "source_of_truth": "canonical_parser",
+      "needs_human_review": false
+    }
+  },
+  "total_units_detected": 1,
+  "text_quality": {
+    "total_chars": 45083,
+    "chars_per_page": 1408.84375,
+    "unique_pages": 32,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 68,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 1,
+    "detected_unit_count": 1,
+    "detected_units": [
+      "Unit 1: Wonderful things and people"
+    ],
+    "confidence": 0.55,
+    "boundary_sources": [
+      "module_subunits"
+    ],
+    "structural_source": "module_subunits",
+    "cross_check": {
+      "counts_by_source": {
+        "module_subunits": 1,
+        "segmentation": 1
+      },
+      "agreement": true
+    },
+    "warnings": [
+      "Filename unit hint [4] disagrees with detected units [1].",
+      "Long document produced one unit; human check may be needed."
+    ],
+    "needs_human_review": true,
+    "filename_unit_hint": [
+      4
+    ]
+  },
+  "human_review_flags": {
+    "grade": false,
+    "units": true,
+    "text_quality": false,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}

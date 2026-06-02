@@ -1,0 +1,390 @@
+{
+  "grade": "P2",
+  "predicted_grade": "P2",
+  "source_file": "P2.pdf",
+  "extractions": [
+    {
+      "unit_title": "Unit 1: Housework",
+      "grammar_points": [
+        "Use the simple present tense to talk about habits."
+      ],
+      "vocabulary_themes": [
+        "Household chores",
+        "Dwarfs' activities"
+      ],
+      "vocabulary_words": [
+        "dust",
+        "wash",
+        "dry",
+        "clean",
+        "set the table",
+        "water",
+        "cook",
+        "housework"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 3,
+      "end_page": 10,
+      "unit_number": "1"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "filename",
+  "canonical": {
+    "file": "P2.pdf",
+    "parsed_form": 2,
+    "parsed": {
+      "publisher": "P",
+      "series": null,
+      "form_number": 2,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P2",
+    "source": "filename",
+    "source_of_truth": "filename",
+    "inference_used": false
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:filename_p_series",
+      "publisher:P",
+      "page_count:21",
+      "toc_entries:0",
+      "form_number:2",
+      "filename_grade_hint:P2"
+    ],
+    "structure": {
+      "source_file": "P2.pdf",
+      "document_type_hint": "structured_textbook",
+      "parsed": {
+        "raw_filename": "P2.pdf",
+        "publisher": "P",
+        "series": null,
+        "form_number": 2,
+        "track": null,
+        "unit": null,
+        "inferred_grade": "P2"
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "P2",
+      "grade_source": "filename_hint",
+      "page_count": 21,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:P",
+        "page_count:21",
+        "toc_entries:0",
+        "form_number:2",
+        "filename_grade_hint:P2"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "toc_only",
+      "evidence": [
+        "© Pearson Education Asia Limited 2022",
+        "All rights reserved; no part of this publication may be reproduced, photocopied, recorded or otherwise, without the prior written permission of Pearson Education Asia Limited."
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "",
+      "publisher": "Pearson Education Asia Limited",
+      "textbook_series": "",
+      "source_code": "P2",
+      "semester_or_book": "",
+      "unit_number": "",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "unknown",
+      "units_explicitly_listed": false,
+      "evidence": [
+        "Pearson",
+        "© Pearson Education Asia Limited 2022",
+        "source code from filename: P2",
+        "content_grade_inference: Unit 1: Housework",
+        "content_grade_inference: Use the simple present tense to talk about habits.",
+        "content_grade_inference: Vocabulary themes: ['Household chores', \"Dwarfs' activities\"]",
+        "content_grade_inference: Skills: ['Reading', 'Writing', 'Speaking', 'Listening', 'Phonics']"
+      ]
+    },
+    "claimed_level": "Unknown",
+    "inferred_level": "P2",
+    "level_confidence": 0.74,
+    "level_evidence": [
+      {
+        "evidence": "Unit 1: Housework, Use the simple present tense to talk about habits., Vocabulary themes: ['Household chores', \"Dwarfs' activities\"], Skills: ['Reading', 'Writing', 'Speaking', 'Listening', 'Phonics']",
+        "suggested_level": "P3",
+        "confidence": 0.85
+      },
+      {
+        "evidence": "avg_sentence_words=30.0, long_word_ratio=0.30",
+        "suggested_level": "S4",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "level_decision_trace": [
+      "filename: P2 (0.88)",
+      "semantic_content: P3 (0.85)",
+      "lexical_complexity: S4 (0.38)",
+      "Primary signal P2 (filename) disagrees with semantic content (P3).",
+      "Extractable PDF text is sparse or repetitive; OCR/vision evidence may be required for reliable grade and unit detection.",
+      "Grade classification flagged for human review."
+    ],
+    "total_units_detected": 1,
+    "document_unit_number": ""
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 1: Housework",
+      "start_page": 3,
+      "end_page": 10,
+      "boundary_source": "visual_unit_boundary"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 2,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 5,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 16,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "content_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "P2.pdf",
+      "publisher": "P",
+      "series": null,
+      "form_number": 2,
+      "track": null,
+      "unit": null,
+      "inferred_grade": "P2"
+    },
+    "content_inference": {
+      "predicted_grade": "P3",
+      "confidence": 0.85,
+      "evidence": [
+        "Unit 1: Housework",
+        "Use the simple present tense to talk about habits.",
+        "Vocabulary themes: ['Household chores', \"Dwarfs' activities\"]",
+        "Skills: ['Reading', 'Writing', 'Speaking', 'Listening', 'Phonics']"
+      ],
+      "reasoning_summary": "The material targets skills commonly taught at the Primary 3 level, featuring simple present tense and vocabulary related to household chores, which aligns with P3 curriculum objectives."
+    },
+    "grade_decision": {
+      "grade": "P2",
+      "confidence": 0.74,
+      "source": "filename",
+      "signals": [
+        {
+          "source": "filename",
+          "grade": "P2",
+          "confidence": 0.88,
+          "priority": 1,
+          "evidence": [
+            "P2.pdf"
+          ]
+        },
+        {
+          "source": "semantic_content",
+          "grade": "P3",
+          "confidence": 0.85,
+          "priority": 2,
+          "evidence": [
+            "Unit 1: Housework",
+            "Use the simple present tense to talk about habits.",
+            "Vocabulary themes: ['Household chores', \"Dwarfs' activities\"]",
+            "Skills: ['Reading', 'Writing', 'Speaking', 'Listening', 'Phonics']"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "S4",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=30.0",
+            "long_word_ratio=0.30"
+          ]
+        }
+      ],
+      "warnings": [
+        "Primary signal P2 (filename) disagrees with semantic content (P3)."
+      ],
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 1,
+        "source": "filename",
+        "basis": "filename_metadata",
+        "content_agreement": false,
+        "validator_grade": "P3",
+        "filename_content_match": false,
+        "final_confidence": 0.74
+      }
+    },
+    "final": {
+      "predicted_grade": "P2",
+      "confidence": 0.74,
+      "signal": "filename",
+      "source_of_truth": "filename",
+      "needs_human_review": true,
+      "confidence_factors": {
+        "priority": 1,
+        "source": "filename",
+        "basis": "filename_metadata",
+        "content_agreement": false,
+        "validator_grade": "P3",
+        "filename_content_match": false,
+        "final_confidence": 0.74
+      }
+    }
+  },
+  "total_units_detected": 1,
+  "text_quality": {
+    "total_chars": 4641,
+    "chars_per_page": 221.0,
+    "unique_pages": 1,
+    "repeated_ratio": 0.9523809523809523,
+    "curriculum_terms": 0,
+    "likely_insufficient": true
+  },
+  "unit_quality": {
+    "unit_count": 1,
+    "detected_unit_count": 1,
+    "detected_units": [],
+    "confidence": 0.72,
+    "boundary_sources": [
+      "visual_unit_boundary"
+    ],
+    "structural_source": "segmentation",
+    "cross_check": {
+      "counts_by_source": {
+        "segmentation": 1
+      },
+      "agreement": true
+    },
+    "warnings": [],
+    "needs_human_review": false,
+    "filename_unit_hint": []
+  },
+  "human_review_flags": {
+    "grade": true,
+    "units": false,
+    "text_quality": true,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": {
+    "units": [
+      {
+        "unit_title": "Unit 1: Housework",
+        "start_page": 3,
+        "end_page": 10,
+        "evidence": [
+          "Page 3: Let's help at home",
+          "Page 4: Vocab booster",
+          "Page 5: Reading: Snow White and the seven (helpful) dwarfs",
+          "Page 6: Continuing the story and activities related to Snow White",
+          "Page 7: Post-reading activities",
+          "Page 8: Language focus 1",
+          "Page 9: Language focus 2",
+          "Page 10: Listening and Speaking"
+        ]
+      }
+    ],
+    "confidence": 0.9,
+    "evidence": [
+      "Clear unit title on page 3 and related content across subsequent pages."
+    ]
+  }
+}

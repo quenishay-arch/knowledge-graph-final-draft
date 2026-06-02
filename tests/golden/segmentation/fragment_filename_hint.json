@@ -1,0 +1,7 @@
+{
+  "chunk_count_min": 1,
+  "chunk_count_max": 1,
+  "titles_contain_any": ["New Treasure Plus"],
+  "titles_must_not": ["Document"],
+  "boundary_sources_allowed": ["document_title", "module_heading", "heading", "fallback"]
+}

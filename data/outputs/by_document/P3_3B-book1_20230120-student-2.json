@@ -1,0 +1,524 @@
+{
+  "grade": "P3",
+  "predicted_grade": "P3",
+  "source_file": "3B-book1_20230120-student-2.pdf",
+  "extractions": [
+    {
+      "unit_title": "Unit 1: A shopping day",
+      "grammar_points": [
+        "Use formulaic expressions to get attention.",
+        "Use ‘where’ to ask for locations.",
+        "Use imperatives to give directions.",
+        "Use ‘opposite’, ‘beside’ and ‘between’ to talk about positions."
+      ],
+      "vocabulary_themes": [
+        "shops and items"
+      ],
+      "vocabulary_words": [
+        "music shop",
+        "cake shop",
+        "boutique",
+        "shoe shop",
+        "bookstore",
+        "toy shop",
+        "jacket",
+        "sweater",
+        "CD",
+        "laptop computer",
+        "sports shoes",
+        "Best Deal Supermarket",
+        "John's Pies",
+        "Betty Thai Restaurant",
+        "Yummy Fast Food Shop",
+        "Tasty Ice-cream Shop",
+        "Red Music Shop",
+        "Super Bookstore",
+        "R&T Boutique",
+        "Mega Cinema",
+        "Canton Chinese Restaurant"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 7,
+      "end_page": 14,
+      "unit_number": "1"
+    },
+    {
+      "unit_title": "Unit 2: Be helpful",
+      "grammar_points": [
+        "Use formulaic expressions to request help.",
+        "Use the simple past tense to talk about past events.",
+        "Use reporting verbs in direct speech."
+      ],
+      "vocabulary_themes": [
+        "actions"
+      ],
+      "vocabulary_words": [
+        "visit old people",
+        "nod your head",
+        "wave goodbye",
+        "helping others",
+        "take a box down",
+        "show the way",
+        "give someone my seat",
+        "carry a bag",
+        "buy a flag"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 15,
+      "end_page": 22,
+      "unit_number": "2"
+    },
+    {
+      "unit_title": "Unit 3: Ming’s busy week",
+      "grammar_points": [
+        "Use the simple past tense to describe past events.",
+        "Use the simple past tense to ask questions.",
+        "Use prepositions to indicate time.",
+        "Use capital letters to begin days of the week."
+      ],
+      "vocabulary_themes": [
+        "days",
+        "activities"
+      ],
+      "vocabulary_words": [
+        "yesterday",
+        "today",
+        "tomorrow",
+        "weekend",
+        "go jogging",
+        "watch a movie",
+        "play volleyball",
+        "play video games",
+        "go cycling"
+      ],
+      "language_skills": [
+        "Reading",
+        "Writing",
+        "Speaking",
+        "Listening",
+        "Phonics"
+      ],
+      "start_page": 23,
+      "end_page": 36,
+      "unit_number": "3"
+    }
+  ],
+  "route": "unified",
+  "frozen_grade": "UNKNOWN",
+  "grade_source": "explicit_metadata",
+  "canonical": {
+    "file": "3B-book1_20230120-student-2.pdf",
+    "parsed_form": null,
+    "parsed": {
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null
+    },
+    "final_grade": "P3",
+    "source": "explicit_metadata",
+    "source_of_truth": "explicit_metadata",
+    "inference_used": true
+  },
+  "routing": {
+    "route": "unified",
+    "signals": [
+      "rule:default_unified",
+      "publisher:UNKNOWN",
+      "page_count:36",
+      "toc_entries:0"
+    ],
+    "structure": {
+      "source_file": "3B-book1_20230120-student-2.pdf",
+      "document_type_hint": "fragment",
+      "parsed": {
+        "raw_filename": "3B-book1_20230120-student-2.pdf",
+        "publisher": "UNKNOWN",
+        "series": null,
+        "form_number": null,
+        "track": null,
+        "unit": null,
+        "inferred_grade": null
+      },
+      "locked_grade": "UNKNOWN",
+      "filename_grade_hint": "",
+      "grade_source": "none",
+      "page_count": 36,
+      "toc_unit_count": 0,
+      "signals": [
+        "publisher:UNKNOWN",
+        "page_count:36",
+        "toc_entries:0"
+      ]
+    }
+  },
+  "document_analysis": {
+    "document_type": {
+      "document_type": "full_textbook",
+      "evidence": [
+        "The series follows the HKSAR’s English Language Curriculum, and includes student books and teacher’s books in print, PDF, Web and e-pub formats.",
+        "Module: Places and activities (Units 1–3)",
+        "Appendix",
+        "Self-assessment",
+        "Vocabulary list"
+      ]
+    },
+    "metadata": {
+      "explicit_grade_label": "Primary 3B",
+      "publisher": "Hong Kong Metropolitan University",
+      "textbook_series": "Open English, Primary 1–6",
+      "source_code": "",
+      "semester_or_book": "",
+      "unit_number": "Unit 1",
+      "filename_grade_hint": "",
+      "filename_unit_hint": "",
+      "school_level": "primary",
+      "units_explicitly_listed": true,
+      "evidence": [
+        "Explicit Grade Label: Primary 3B",
+        "Published by: Hong Kong Metropolitan University",
+        "Textbook Series: Open English, Primary 1–6",
+        "Unit Number: Unit 1 mentioned in several sections",
+        "School Level: primary"
+      ]
+    },
+    "claimed_level": "P3",
+    "inferred_level": "P3",
+    "level_confidence": 0.98,
+    "level_evidence": [
+      {
+        "evidence": "simple past tense",
+        "suggested_level": "P3",
+        "confidence": 0.6195
+      },
+      {
+        "evidence": "avg_sentence_words=10.2, long_word_ratio=0.12",
+        "suggested_level": "P4",
+        "confidence": 0.38
+      }
+    ],
+    "consistency_issues": [
+      "Unit count mismatch across signals: header_grouping=2, segmentation=3, structural_marker=3, toc_parse=3.",
+      "Unit segmentation flagged for human review."
+    ],
+    "level_decision_trace": [
+      "explicit_metadata: P3 (0.94)",
+      "curriculum_topics: P3 (0.62)",
+      "lexical_complexity: P4 (0.38)",
+      "metadata: P3 (0.72)",
+      "Unit count mismatch across signals: header_grouping=2, segmentation=3, structural_marker=3, toc_parse=3.",
+      "Unit segmentation flagged for human review."
+    ],
+    "total_units_detected": 3,
+    "document_unit_number": "Unit 1"
+  },
+  "unit_hierarchy": [
+    {
+      "unit_title": "Unit 1: A shopping day",
+      "start_page": 7,
+      "end_page": 14,
+      "boundary_source": "toc"
+    },
+    {
+      "unit_title": "Unit 2: Be helpful",
+      "start_page": 15,
+      "end_page": 22,
+      "boundary_source": "toc"
+    },
+    {
+      "unit_title": "Unit 3: Ming’s busy week",
+      "start_page": 23,
+      "end_page": 36,
+      "boundary_source": "toc"
+    }
+  ],
+  "page_types": [
+    {
+      "page_number": 1,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 2,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 3,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 4,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 5,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 6,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 7,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 8,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 9,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 10,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 11,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 12,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 13,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 14,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 15,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 16,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 17,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 18,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 19,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 20,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 21,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 22,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 23,
+      "page_type": "toc"
+    },
+    {
+      "page_number": 24,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 25,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 26,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 27,
+      "page_type": "vocabulary_page"
+    },
+    {
+      "page_number": 28,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 29,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 30,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 31,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 32,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 33,
+      "page_type": "content_page"
+    },
+    {
+      "page_number": 34,
+      "page_type": "unit_divider"
+    },
+    {
+      "page_number": 35,
+      "page_type": "cover_page"
+    },
+    {
+      "page_number": 36,
+      "page_type": "cover_page"
+    }
+  ],
+  "grade_provenance": {
+    "canonical": {
+      "raw_filename": "3B-book1_20230120-student-2.pdf",
+      "publisher": "UNKNOWN",
+      "series": null,
+      "form_number": null,
+      "track": null,
+      "unit": null,
+      "inferred_grade": null
+    },
+    "content_inference": null,
+    "grade_decision": {
+      "grade": "P3",
+      "confidence": 0.98,
+      "source": "explicit_metadata",
+      "signals": [
+        {
+          "source": "explicit_metadata",
+          "grade": "P3",
+          "confidence": 0.94,
+          "priority": 0,
+          "evidence": [
+            "Explicit Grade Label: Primary 3B",
+            "Published by: Hong Kong Metropolitan University",
+            "Textbook Series: Open English, Primary 1–6",
+            "Unit Number: Unit 1 mentioned in several sections",
+            "School Level: primary"
+          ]
+        },
+        {
+          "source": "curriculum_topics",
+          "grade": "P3",
+          "confidence": 0.6195,
+          "priority": 2,
+          "evidence": [
+            "simple past tense"
+          ]
+        },
+        {
+          "source": "lexical_complexity",
+          "grade": "P4",
+          "confidence": 0.38,
+          "priority": 3,
+          "evidence": [
+            "avg_sentence_words=10.2",
+            "long_word_ratio=0.12"
+          ]
+        },
+        {
+          "source": "metadata",
+          "grade": "P3",
+          "confidence": 0.72,
+          "priority": 4,
+          "evidence": [
+            "Explicit Grade Label: Primary 3B",
+            "Published by: Hong Kong Metropolitan University",
+            "Textbook Series: Open English, Primary 1–6",
+            "Unit Number: Unit 1 mentioned in several sections",
+            "School Level: primary"
+          ]
+        }
+      ],
+      "warnings": [],
+      "needs_human_review": false,
+      "confidence_factors": {
+        "priority": 0,
+        "source": "explicit_metadata",
+        "basis": "explicit_marker",
+        "content_agreement": true,
+        "final_confidence": 0.98
+      }
+    },
+    "final": {
+      "predicted_grade": "P3",
+      "confidence": 0.98,
+      "signal": "explicit_metadata",
+      "source_of_truth": "explicit_metadata",
+      "needs_human_review": false,
+      "confidence_factors": {
+        "priority": 0,
+        "source": "explicit_metadata",
+        "basis": "explicit_marker",
+        "content_agreement": true,
+        "final_confidence": 0.98
+      }
+    }
+  },
+  "total_units_detected": 3,
+  "text_quality": {
+    "total_chars": 25901,
+    "chars_per_page": 719.4722222222222,
+    "unique_pages": 36,
+    "repeated_ratio": 0.0,
+    "curriculum_terms": 90,
+    "likely_insufficient": false
+  },
+  "unit_quality": {
+    "unit_count": 3,
+    "detected_unit_count": 3,
+    "detected_units": [
+      "Unit 1: A shopping day",
+      "Unit 2: Be helpful",
+      "Unit 3: Ming’s busy week"
+    ],
+    "confidence": 0.72,
+    "boundary_sources": [
+      "toc"
+    ],
+    "structural_source": "toc_parse",
+    "cross_check": {
+      "counts_by_source": {
+        "structural_marker": 3,
+        "toc_parse": 3,
+        "header_grouping": 2,
+        "segmentation": 3
+      },
+      "agreement": false
+    },
+    "warnings": [
+      "Unit count mismatch across signals: header_grouping=2, segmentation=3, structural_marker=3, toc_parse=3."
+    ],
+    "needs_human_review": true,
+    "filename_unit_hint": []
+  },
+  "human_review_flags": {
+    "grade": false,
+    "units": true,
+    "text_quality": false,
+    "overall": true
+  },
+  "visual_unit_boundary_plan": null
+}
